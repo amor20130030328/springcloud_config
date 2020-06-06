@@ -1,2 +1,2 @@
-config
-	info: master branch,springcloud_config/config-test.yml version=1
+config:
+  info: this is test config and version 3
